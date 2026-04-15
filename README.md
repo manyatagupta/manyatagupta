@@ -3,17 +3,9 @@
 
 Email Me 👉 ✉️ **manyatagupta1555@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI Tutor Web App using Flask and structured learning data  
-- 🌱 **I’m currently learning:** Machine Learning, Deep Learning & Full Stack Development  
-- 👯 **I’m looking to collaborate on:** AI-based and Web Development projects  
-- 🤔 **I’m looking for help with:** Backend development and ML integration  
-- 💬 **Ask me about:** Python, Web Development, AI basics & Collaboration  
-- 📫 **How to reach me:** **manyatagupta1555@gmail.com**  
-- 😄 **Pronouns:** manya  
-- ⚡ **Fun fact:** I focus on building real projects instead of just watching tutorials
 
 # 💫 About Me:
-Hi, I'm Manya! 👋 I am currently in my 3rd year (6th Semester) pursuing a B.Tech in Computer Science (AI) at BBD University, Lucknow.<br><br>🔭 I’m currently working on "AI Tutor", a Django-based web app for students in grades 5-12, alongside some graphic design projects.<br><br>👯 I’m looking to collaborate on innovative IoT projects and open-source AI/web applications.<br><br>🤝 I’m looking for help with finding remote freelance graphic design opportunities and advanced AI integrations.<br><br>🌱 I’m currently learning advanced web development techniques and exploring new AI algorithms.<br><br>💬 Ask me about IoT prototyping (ESP32/GSM), Django, graphic design, chess, or Indian cricket!<br><br>⚡ Fun fact: I developed and presented a "Smart Women’s Safety Device" at the BBD University Tech Expo!
+I am currently in my 3rd year (6th Semester) pursuing a B.Tech in Computer Science (AI) at BBD University, Lucknow.<br><br>🔭 I’m currently working on "AI Tutor", a Django-based web app for students in grades 5-12, alongside some graphic design projects.<br><br>👯 I’m looking to collaborate on innovative IoT projects and open-source AI/web applications.<br><br>🤝 I’m looking for help with finding remote freelance graphic design opportunities and advanced AI integrations.<br><br>🌱 I’m currently learning advanced web development techniques and exploring new AI algorithms.<br><br>💬 Ask me about IoT prototyping (ESP32/GSM), Django, graphic design, chess, or Indian cricket!<br><br>⚡ Fun fact: I developed and presented a "Smart Women’s Safety Device" at the BBD University Tech Expo!
 
 
 ## 🌐 Socials:
