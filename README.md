@@ -1,8 +1,20 @@
-# 💫 Hi 👋, I'm manyata gupta
-**A passionate AI & Web Developer from India**
+<h1 align="center">
+  Hey there, I'm Manyata Gupta
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
+</h1>
 
-Email Me 👉 ✉️ **manyatagupta1555@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <b>B.Tech CSE (AI) Student &nbsp;·&nbsp; AI & Web Dev Enthusiast &nbsp;·&nbsp; India 🇮🇳</b>
+</p>
 
+<p align="center">
+  <a href="https://manyata-gupta.onrender.com"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manyata-gupta-06476633a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manyatagupta1555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</p>
+
+---
 
 # 💫 About Me:
 I am currently in my 3rd year (6th Semester) pursuing a B.Tech in Computer Science (AI) at BBD University, Lucknow.<br><br>🔭 I’m currently working on "AI Tutor", a Django-based web app for students in grades 5-12, alongside some graphic design projects.<br><br>👯 I’m looking to collaborate on innovative IoT projects and open-source AI/web applications.<br><br>🤝 I’m looking for help with finding remote freelance graphic design opportunities and advanced AI integrations.<br><br>🌱 I’m currently learning advanced web development techniques and exploring new AI algorithms.<br><br>💬 Ask me about IoT prototyping (ESP32/GSM), Django, graphic design, chess, or Indian cricket!<br><br>⚡ Fun fact: I developed and presented a "Smart Women’s Safety Device" at the BBD University Tech Expo!
