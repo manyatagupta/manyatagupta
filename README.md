@@ -17,7 +17,7 @@
 ---
 
 # 💫 About Me:
-I am currently in my 3rd year (6th Semester) pursuing a B.Tech in Computer Science (AI) at BBD University, Lucknow.<br><br>🔭 I’m currently working on "AI Tutor", a Django-based web app for students in grades 5-12, alongside some graphic design projects.<br><br>👯 I’m looking to collaborate on innovative IoT projects and open-source AI/web applications.<br><br>🤝 I’m looking for help with finding remote freelance graphic design opportunities and advanced AI integrations.<br><br>🌱 I’m currently learning advanced web development techniques and exploring new AI algorithms.<br><br>💬 Ask me about IoT prototyping (ESP32/GSM), Django, graphic design, chess, or Indian cricket!<br><br>⚡ Fun fact: I developed and presented a "Smart Women’s Safety Device" at the BBD University Tech Expo!
+I am currently in my 4th year (7th Semester) pursuing a B.Tech in Computer Science (AI) at BBD University, Lucknow.<br><br>🔭 I’m currently working on "AI Tutor", a Django-based web app for students in grades 5-12, alongside some graphic design projects.<br><br>👯 I’m looking to collaborate on innovative IoT projects and open-source AI/web applications.<br><br>🤝 I’m looking for help with finding remote freelance graphic design opportunities and advanced AI integrations.<br><br>🌱 I’m currently learning advanced web development techniques and exploring new AI algorithms.<br><br>💬 Ask me about IoT prototyping (ESP32/GSM), Django, graphic design, chess, or Indian cricket!<br><br>⚡ Fun fact: I developed and presented a "Smart Women’s Safety Device" at the BBD University Tech Expo!
 
 
 ## 🌐 Socials:
