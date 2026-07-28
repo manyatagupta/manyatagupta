@@ -11,7 +11,7 @@
   <a href="https://manyata-gupta.onrender.com"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manyata-gupta-06476633a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manyatagupta1555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+  
 </p>
 
 ---
