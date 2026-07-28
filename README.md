@@ -31,6 +31,7 @@ I am currently in my 4th year (7th Semester) pursuing a B.Tech in Computer Scien
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manyatagupta&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
