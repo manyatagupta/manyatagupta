@@ -1,6 +1,7 @@
+[README.md](https://github.com/user-attachments/files/31363329/README.md)
 [README.md](https://github.com/user-attachments/files/31363259/README.md)
 <h1 align="center"><div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">[README.md](https://github.com/user-attachments/files/31363331/README.md)
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Manyata+Gupta+👋;B.Tech+CSE+(AI)+Student+🎓;AI+%26+Web+Dev+Enthusiast+🚀;From+India+🇮🇳" alt="Typing SVG" />
   </a>
 </div>
