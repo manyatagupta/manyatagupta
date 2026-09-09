@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 </h1>
 
-
 <p align="center">
   <b>B.Tech CSE (AI) Student &nbsp;·&nbsp; AI & Web Dev Enthusiast &nbsp;·&nbsp; India 🇮🇳</b>
 </p>
